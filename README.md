@@ -1,2 +1,1 @@
-# realjoro.github.io
-JoRo Page
+# JoRo Page
