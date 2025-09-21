@@ -1,2 +1,0 @@
-# app-ads.txt JoRo Games
-google.com, pub-9207437993806928, DIRECT, f08c47fec0942fa0
