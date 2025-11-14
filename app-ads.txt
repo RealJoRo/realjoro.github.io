@@ -421,3 +421,4 @@ tradplusad.com, b3fca24bd11c1242, RESELLER
 lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
 sharethrough.com, DQQogebZ, RESELLER, d53b998a7bd4ecd2
 xandr.com, 15769, RESELLER
+facebook.com, 25477477425204335, DIRECT, c3e20eee3f780d68
